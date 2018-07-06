@@ -1,0 +1,15 @@
+{
+  "title": "twinkle",
+  "colors": [
+    {"color": "red", "duration": 1000 },
+    {"color": "blue", "duration": 500 },
+    {"color": "green", "duration": 300 },
+    {"color": "red", "duration": 800 },
+    {"color": "orange", "duration": 400 },
+    {"color": "yellow", "duration": 1000 },
+    {"color": "red", "duration": 500 },
+    {"color": "purple", "duration": 200 },
+    {"color": "green", "duration": 700 },
+    {"color": "blue", "duration": 1000 }
+  ]
+}
